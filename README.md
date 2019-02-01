@@ -15,11 +15,14 @@ A blog with Vue.js
     * 框架 Vue.js 
     * 基础控件：Button,图片，文字，List,MarkDown渲染，上传文件
     * 项目新建，发布
+    * 功能：图片上传，markdown显示
 
 * Serve
     * 项目新建，发布
     * Golang 
     * 数据库分表，设计表
+    * 图片上传，富文本持久化，
+    * 根据域名或者关键字段拆分blog
 *  目标是颜值高，自己喜欢的风格
 #### 3.准备
 * 学习资源
@@ -51,3 +54,35 @@ A blog with Vue.js
 #### 补充
 * 1.文档要完善
 * 2.timeline 
+```
+
+### 后台
+1.文章详情接口
+
+String headPictureUrl 
+String title
+String time
+String detailText
+String nextBlog
+String lastBlog
+
+2.Home List
+List blogs
+String headPictureUrl 
+
+
+3.上传
+解析为静态页面，数据库持久化
+
+
+### web
+* 默认配置
+	* 个人信息
+	* Head 信息
+
+* 1.上传页面
+
+* 2.首页
+
+* 3.详情页面
+```
