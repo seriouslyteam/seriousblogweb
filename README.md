@@ -28,7 +28,7 @@ A blog with Vue.js
 * 学习资源
     * 1.[Vue.js菜鸟教程](http://www.runoob.com/vue2/vue-tutorial.html)
     * 2.[Go菜鸟教程](http://www.runoob.com/go/go-tutorial.html)
-    * 
+    * 3. [Vue.js 视频教程](链接:https://pan.baidu.com/s/1ZuT2q_YohFHne98xCD0vKw  密码:gh06)
     
 #### 4.怎么做
 * 要求
