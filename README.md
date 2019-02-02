@@ -54,6 +54,7 @@ A blog with Vue.js
 #### 补充
 * 1.文档要完善
 * 2.timeline 
+* 3.协作平台：https://tower.im/teams/fb0140d7bb99f924b4ba4a98369deb5d/projects/
 ```
 
 ### 后台
